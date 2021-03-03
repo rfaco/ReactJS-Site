@@ -56,7 +56,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Quem Somos?
+                Produtos
               </Link>
             </li>
 
